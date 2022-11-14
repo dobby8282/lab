@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\exam-02-02-variable-type.c">
+    <ClCompile Include="exam-02-02-variable-type.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
